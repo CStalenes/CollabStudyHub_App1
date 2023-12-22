@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#e4e4e4</color>
+    <color name="blue">#4e74f9</color>
+    <color name="Turkois">#009bd4</color>
+    <color name="turkois_1">#b8e4ea</color>
+    <color name="turkois_2">#79cdde</color>
+    <color name="darkgray">#B7B7B7</color>
+    <color name="red">#fe0101</color>
+    <color name="dasty_pink">#e14b5a</color>
+</resources>

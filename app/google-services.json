@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "365675964876",
+    "project_id": "collabstudyhub-app",
+    "storage_bucket": "collabstudyhub-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365675964876:android:a6c7e6839f604c49169569",
+        "android_client_info": {
+          "package_name": "com.example.collabstudyhub_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT-hAqA0sK3ARjgx81Msll2AJ-urJ3ECM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

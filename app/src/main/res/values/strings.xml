@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">CollabStudyHub_App</string>
+
+    // all levels
+    <string-array name="levels">
+        <item>Collège-6éme</item>
+        <item>Collège-5éme</item>
+        <item>Collège-4éme</item>
+        <item>Collège-3éme</item>
+        <item>Lycée-2nde</item>
+        <item>Lycée-1ère</item>
+        <item>Lycée-Terminale</item>
+        <item>DEUG</item>
+        <item>BTS</item>
+        <item>DUT</item>
+        <item>DEUST</item>
+        <item>Licence</item>
+        <item>Licence professionnelle</item>
+        <item>Maîtrise</item>
+        <item>Master</item>
+    </string-array>
+
+    // college fields
+    <string-array name="college_field">
+        <item>Filière économique et sociale</item>
+        <item>Filière Littéraire</item>
+        <item>Filière Scientifique</item>
+        <item></item>
+    </string-array>
+
+    // lycee fields
+    <string-array name="lycee_field">
+        <item>Histoire-géographie, géopolitique et sciences politiques</item>
+        <item>Humanités, littérature et philosophie</item>
+        <item>Langues, littératures et cultures étrangères et régionales</item>
+        <item>Mathématiques</item>
+        <item>Physique-chimie</item>
+        <item>Sciences de la vie et de la Terre</item>
+        <item>Sciences économiques et sociales</item>
+    </string-array>
+
+    // university fields
+    <string-array name="university_field">
+        <item>Sciences pour ingénieur</item>
+        <item>Physique chimie</item>
+        <item>Biologie</item>
+        <item>Agroalimentaire</item>
+        <item>Maths</item>
+        <item>Informatique</item>
+        <item>Médecine</item>
+        <item>Pharmacie</item>
+        <item>Littérature</item>
+        <item>Sciences humaines et sociales</item>
+        <item>Economie et gestion</item>
+        <item>Droit</item>
+    </string-array>
+</resources>
